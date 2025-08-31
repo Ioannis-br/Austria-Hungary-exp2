@@ -36,7 +36,7 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 		{
-		"name": "Austria-Hungary",
+		"name": ["Austria-Hungary", "Austrian Empire", "Hungary"],
 		"leaderName": "Franz Joseph",
 		"adjective": ["Austro-Hungarian"],
 		"startBias": ["River","Hill"],
